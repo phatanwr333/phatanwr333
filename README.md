@@ -33,9 +33,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=phatanwr333&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
----
-
-### 🌟 Featured Projects:
-- 🎮 [Roblox Blox Fruits Scripts](#)  
-- ⚡ [Roblox Build a Boat For Treasure Scripts](#)  
-- 🚀 [More coming soon...]
