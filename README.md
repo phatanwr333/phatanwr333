@@ -40,9 +40,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=phatanwr333&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=phatanwr333&show_icons=true&theme=radical" alt="phatanwr333's GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=phatanwr333&show_icons=true&theme=radical" alt="phatanwr333's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=phatanwr333&theme=radical" alt="GitHub Streak" />
 </p>
