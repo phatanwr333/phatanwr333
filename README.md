@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://discord.com/users/1139063942119960616">
-    <img src="https://api.lanyard.rest/v1/users/1139063942119960616" alt="Discord Presence" />
+    <img src="https://lanyard-profile-readme.vercel.app/api/1139063942119960616" alt="Discord Presence" />
   </a>
 </p>
 
