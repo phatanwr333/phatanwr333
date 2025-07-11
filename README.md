@@ -2,8 +2,8 @@
 <h3 align="center">A Roblox scripter from VN </h3>
 
 <p align="center">
-  <a href="https://discord.com/users/915056069020123187">
-    <img src="https://lanyard.cnrad.dev/api/915056069020123187" alt="Discord Presence" />
+  <a href="https://discord.com/users/1139063942119960616">
+    <img src="https://api.lanyard.rest/v1/users/1139063942119960616" alt="Discord Presence" />
   </a>
 </p>
 
@@ -13,7 +13,7 @@
 - 🔭 I’m currently working on **Roblox Lua Scripts**  
 - 🌱 I’m currently learning **Lua**, **TypeScript**, **Web Development**  
 - 🤝 I’m open to collaborate on **fun Roblox projects**  
-- 📫 How to reach me: [Discord](https://discord.com/users/915056069020123187)  
+- 📫 How to reach me: [Discord](https://discord.com/users/1139063942119960616)  
 
 ---
 
